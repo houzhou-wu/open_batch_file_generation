@@ -1,0 +1,6 @@
+pydocxtpl
+xltpl
+openpyxl
+pandas
+gooey
+pyinstaller
